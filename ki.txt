@@ -1,1 +1,2 @@
 Hello,ki.
+Goodbye,ki.
